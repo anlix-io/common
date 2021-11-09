@@ -1,0 +1,10 @@
+{
+  "name": "anlix-common",
+  "version": "0.0.1",
+  "description": "Anlix Common JavaScript Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "GPL-2.0"
+}
