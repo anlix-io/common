@@ -2,9 +2,14 @@
   "name": "anlix-common",
   "version": "0.0.1",
   "description": "Anlix Common JavaScript Functions",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "license": "GPL-2.0"
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "GPL-2.0",
+  "files": [
+    "/dist"
+  ],
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "typescript": "^4.5.4"
+  }
 }
