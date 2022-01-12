@@ -1,5 +1,5 @@
 {
-  "name": "anlix-common",
+  "name": "@anlix/common",
   "version": "0.0.1",
   "description": "Anlix Common JavaScript Functions",
   "main": "dist/index.js",
