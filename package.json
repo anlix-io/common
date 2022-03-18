@@ -1,6 +1,6 @@
 {
-  "name": "@anlix-io/common",
-  "version": "0.0.2",
+  "name": "common",
+  "version": "0.0.1",
   "description": "Anlix Common JavaScript Functions",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,6 +8,7 @@
   "sideEffects": false,
   "homepage": "https://anlix.io",
   "license": "GPL-2.0",
+  "private": false,
   "files": [
     "/dist"
   ],
